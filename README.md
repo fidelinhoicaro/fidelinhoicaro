@@ -1,16 +1,13 @@
-## Hi there 👋
+Olaaa a todoss!!
 
-<!--
-**fidelinhoicaro/fidelinhoicaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Icaro Fidelis 
 
-Here are some ideas to get you started:
+Eu estou estudando na [Alura](https://www.alura.com.br/)
+ Estou Focando em aprender mais sobre programação, espero que não liguem para oque eu postar aqui.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![](https://media1.tenor.com/m/xw0X88f5OHYAAAAC/yui-trinity-seven.gif)
+
+
+
