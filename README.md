@@ -1,9 +1,10 @@
 Olaaa a todoss!!
 
-Meu nome é Icaro Fidelis 
+• Meu nome é Icaro Fidelis 
 
-Eu estou estudando na [Alura](https://www.alura.com.br/)
- Estou Focando em aprender mais sobre programação, espero que não liguem para oque eu postar aqui.
+• Eu estou estudando na [Alura](https://www.alura.com.br/)
+ 
+• Estou Focando em aprender mais sobre programação, espero que não liguem para oque eu postar aqui.
 
 
 
